@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kavyasudha369
+- 👋 Hi, I’m Kavya Sudha Kollu
 - 👀 I’m interested in Data science and Software Development roles.
 - 🌱 I’m currently doing my Masters in Computer Science at George Mason University.
 - 📫 How to reach me - Email - kkollu@gmu.edu.
